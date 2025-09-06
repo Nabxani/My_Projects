@@ -29,9 +29,13 @@ o	Derive actionable business insights
 o	Revenue peaks in December, indicating seasonal trends
 
 o	A small set of top products drives most of the revenue
+
 o	Top customers contribute disproportionately to total sales
+
 o	UK dominates revenue, but other European countries show meaningful sales
+
 •	Tech Stack: Python, Pandas, DuckDB, Matplotlib, Seaborn
+
 
 
 
